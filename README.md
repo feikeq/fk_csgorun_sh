@@ -1,0 +1,2 @@
+# fk_csgorun_sh
+废客一键安装CSGO服务器并升级的shell脚本

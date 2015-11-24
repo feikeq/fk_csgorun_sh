@@ -44,7 +44,7 @@ sleep 1s
 echo "Preparing to start CSGO Server download [ 正在准备启动CSGO服务端下载 ]"
 chmod -R 777 *
 sleep 1s
-screen -S csgoServerInstall  ./install_csgo.sh
+screen -L -S csgoServerInstall  ./setup_csgo.sh
 cd ..
 
 
